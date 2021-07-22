@@ -1,0 +1,22 @@
+{
+  "name": "wanpas-ai-web",
+  "version": "1.0.0",
+  "description": "Wanpas UI platform for collecting KYC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "wanpas-ai-web"
+  },
+  "keywords": [
+    "kyc",
+    "wanpas",
+    "giktek",
+    "oboarding",
+    "kenya"
+  ],
+  "author": "giktek-revilo",
+  "license": "ISC"
+}
